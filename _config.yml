@@ -1,13 +1,11 @@
 ---
 title: Your awesome title
 timezone: UTC
+collections: [sections]
 collections:
   posts:
     title: Posts
     output: true
-  sections:
-    title: Sections
-    output: false
   uploads:
     title: Uploads
     output: true
