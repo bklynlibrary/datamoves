@@ -8,22 +8,6 @@ collections:
   sections:
     title: Sections
     output: true
-    intro:
-      title: Intro
-      cover-photo: assets/images/banner.jpg
-      cover-photo-alt: example cover photo
-      auto-header: none
-      icon: fa-comment
-      order: 1
-    about:
-      title: About
-      icon: fa-check
-      auto-header: none
-      order: 2
-    why-do-this:
-      title: Why do this?
-      icon: fa-check
-      order: 3
   uploads:
     title: Uploads
     output: true
