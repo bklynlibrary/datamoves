@@ -5,10 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   sections:
+    title: Sections
+    output: false
     intro:
       title: Intro
       cover-photo: assets/images/banner.jpg
@@ -16,7 +15,7 @@ collections:
       auto-header: none
       icon: fa-comment
       order: 1
-    about: 
+    about:
       title: About
       icon: fa-check
       auto-header: none
@@ -25,12 +24,17 @@ collections:
       title: Why do this?
       icon: fa-check
       order: 3
+  uploads:
+    title: Uploads
+    output: true
 subtitle: 
-description: Welcome to the internship website for the spring BCJC tech lab! We'll be learning web design principles by editing this site, and will post projects and resources for one another here.
+description: Welcome to the internship website for the spring BCJC tech lab! We'll
+  be learning web design principles by editing this site, and will post projects and
+  resources for one another here.
 author: Maya Wagoner
 email: mwagoner@bklynlibrary.org
 avatar: assets/images/emerge-white.png
-baseurl: ""
+baseurl: ''
 url: ''
 facebook_url: 
 github_url: 
