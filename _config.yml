@@ -1,7 +1,6 @@
 ---
 title: Your awesome title
 timezone: UTC
-collections: [sections]
 collections:
   posts:
     title: Posts
