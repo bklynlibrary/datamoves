@@ -8,7 +8,7 @@ tags:
 - how-to
 author: Maya Wagoner
 layout: post
-icon: fa-cat
+icon: 😸
 ---
 
 <iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
