@@ -8,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+  sections: [sections]
 subtitle: Your awesome subtitle
 description: This is the demo site for a Jekyll theme version of HTML5 UP's sleek,
   responsive site template Prologue.
