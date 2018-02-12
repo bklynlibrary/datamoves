@@ -1,6 +1,6 @@
 ---
 title: About
-icon: fa-check
+icon: fa-code
 auto-header: none
 order: 2
 ---
