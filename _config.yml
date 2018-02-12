@@ -30,3 +30,4 @@ slack_url:
 twitter_url: 
 google_analytics: 
 theme: jekyll-theme-prologue
+excerpt_separator: <!--read more-->

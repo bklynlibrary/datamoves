@@ -651,7 +651,7 @@
 	#main {
 		margin-left: 375px;
 		> section {
-			text-align: center;
+			text-align: left;
 		}
 		> article {
 			text-align: left;
@@ -694,6 +694,7 @@
 			&.cover {
 				padding: 6em 0;
 				position: relative;
+				text-align: center;
 				z-index: 0;
 				img.back {
 					position: absolute;
