@@ -11,6 +11,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    author: ''
 subtitle: BCJC Lab Spring 2018
 description: Welcome to the internship website for the spring BCJC tech lab! We'll
   be learning web design principles by editing this site, and will post projects and
@@ -30,11 +36,4 @@ slack_url:
 twitter_url: 
 google_analytics: 
 theme: jekyll-theme-prologue
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      author: ""
-excerpt_separator: <!--read more-->
+excerpt_separator: "<!--read more-->"
