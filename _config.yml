@@ -17,6 +17,7 @@ defaults:
     type: posts
   values:
     author: ''
+    icon: ''
 subtitle: BCJC Lab Spring 2018
 description: Welcome to the internship website for the spring BCJC tech lab! We'll
   be learning web design principles by editing this site, and will post projects and
