@@ -1,6 +1,6 @@
 ---
 title: About
-icon: fa-code
+icon: fa-info-circle
 auto-header: none
 order: 2
 ---
