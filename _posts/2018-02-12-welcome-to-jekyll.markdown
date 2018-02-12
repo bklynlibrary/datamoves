@@ -15,9 +15,7 @@ Each week of the internship, participants will be asked to post something to thi
 
 To access the blog, you'll need to be added to the [Siteleaf](https://www.siteleaf.com) CMS (short for Content Management System) by Maya.
 
-Once added, login with your email, and look for the section titled "Posts" (not "Pages," and not "Sections"). There you can add a New Post, or edit one of your old posts.
-
-Happy publishing!
+Once added, login with your email, and look for the section titled "Posts" (not "Pages," and not "Sections"). There you can add a New Post, or edit one of your old posts. Don't forget to credit yourself as the author!
 
 <iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
