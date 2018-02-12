@@ -1,5 +1,6 @@
 ---
 title: Resources
+layout: page
 date: 2018-02-12 20:49:00 Z
 icon: fa-book
 order: 3
