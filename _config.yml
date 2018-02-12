@@ -30,4 +30,11 @@ slack_url:
 twitter_url: 
 google_analytics: 
 theme: jekyll-theme-prologue
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: ""
 excerpt_separator: <!--read more-->
