@@ -1,5 +1,5 @@
 ---
-title: How Data Moves Internship
+title: How Data Moves
 timezone: UTC
 collections:
   posts:
@@ -11,15 +11,15 @@ collections:
   uploads:
     title: Uploads
     output: true
-subtitle: 
+subtitle: BCJC Lab Spring 2018
 description: Welcome to the internship website for the spring BCJC tech lab! We'll
   be learning web design principles by editing this site, and will post projects and
   resources for one another here.
 author: Maya Wagoner
 email: mwagoner@bklynlibrary.org
 avatar: assets/images/emerge-white.png
-baseurl: ''
-url: ''
+baseurl: "/datamoves"
+url: https://mayawagon.github.io
 facebook_url: 
 github_url: 
 googleplus_url: 
