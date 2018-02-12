@@ -7,7 +7,7 @@ collections:
     output: true
   sections:
     title: Sections
-    output: false
+    output: true
     intro:
       title: Intro
       cover-photo: assets/images/banner.jpg
