@@ -7,7 +7,7 @@ categories:
 tags:
 - how-to
 author: Maya Wagoner
-icon: "\U0001F638"
+icon: fa-keyboard
 layout: post
 ---
 
