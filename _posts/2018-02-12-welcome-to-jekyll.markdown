@@ -6,7 +6,7 @@ categories:
 - how-to
 tags:
 - how-to
-Author: Maya Wagoner
+author: Maya Wagoner
 layout: post
 ---
 
