@@ -1,6 +1,6 @@
 ---
 title: Resources
-date: 2018-02-12 20:49:00 Z
+date: 2018-02-12 15:49:00 -05:00
 layout: page
 icon: fa-book
 order: 3
