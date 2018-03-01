@@ -4,3 +4,6 @@ date: 2018-03-01 18:08:00 -05:00
 ---
 
 Things ive learned about jahtiek was that he like comedy more that any thing an hes an exciting person when he watch these shows 
+
+
+The Missing Object
